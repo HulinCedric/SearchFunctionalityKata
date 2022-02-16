@@ -1,8 +1,8 @@
 # Search functionality
 
-## Description
+This description is copied from [TDD Manifesto](https://tddmanifesto.com/exercises)
 
-Description from [TDD Manifesto](https://tddmanifesto.com/exercises/)
+## Description
 
 Implement a city search functionality. The function takes a string (search text) as input and returns the found cities
 which corresponds to the search text.
